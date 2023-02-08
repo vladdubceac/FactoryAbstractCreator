@@ -1,6 +1,6 @@
-package learning.vladdubceac.factory;
+package learning.vladdubceac.factory_method.abstract_creator.factory;
 
-import learning.vladdubceac.product.Shape;
+import learning.vladdubceac.factory_method.abstract_creator.product.Shape;
 
 public abstract class AbstractShapeFactory {
 
